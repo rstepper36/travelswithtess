@@ -30,6 +30,13 @@ body {
     padding: 20px;
     text-align: center;
   }
+
+  .navbar-brand  {
+    color: #66D;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 5px;
+    padding: 5px;
+  }
   
   a {
     color: #333;
